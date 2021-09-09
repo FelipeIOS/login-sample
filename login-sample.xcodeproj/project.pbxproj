@@ -15,6 +15,7 @@
 		B27D6E5626EAC2780009E89A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B27D6E5426EAC2780009E89A /* LaunchScreen.storyboard */; };
 		B27D6E6126EAC2780009E89A /* login_sampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B27D6E6026EAC2780009E89A /* login_sampleTests.swift */; };
 		B27D6E6C26EAC2780009E89A /* login_sampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B27D6E6B26EAC2780009E89A /* login_sampleUITests.swift */; };
+		B27D6E7A26EAC9E80009E89A /* Home.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B27D6E7926EAC9E80009E89A /* Home.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B27D6E6726EAC2780009E89A /* login-sampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "login-sampleUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B27D6E6B26EAC2780009E89A /* login_sampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = login_sampleUITests.swift; sourceTree = "<group>"; };
 		B27D6E6D26EAC2780009E89A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B27D6E7926EAC9E80009E89A /* Home.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Home.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				B27D6E4B26EAC2750009E89A /* SceneDelegate.swift */,
 				B27D6E4D26EAC2750009E89A /* ViewController.swift */,
 				B27D6E4F26EAC2750009E89A /* Main.storyboard */,
+				B27D6E7926EAC9E80009E89A /* Home.storyboard */,
 				B27D6E5226EAC2780009E89A /* Assets.xcassets */,
 				B27D6E5426EAC2780009E89A /* LaunchScreen.storyboard */,
 				B27D6E5726EAC2780009E89A /* Info.plist */,
@@ -234,6 +237,7 @@
 				B27D6E5626EAC2780009E89A /* LaunchScreen.storyboard in Resources */,
 				B27D6E5326EAC2780009E89A /* Assets.xcassets in Resources */,
 				B27D6E5126EAC2750009E89A /* Main.storyboard in Resources */,
+				B27D6E7A26EAC9E80009E89A /* Home.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
